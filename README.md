@@ -1,3 +1,7 @@
+![ee](https://github.com/user-attachments/assets/7b946d15-a65c-4520-ba28-00edd997c63f)
+
+
+
 # Jenkins Pipeline Project
 
 This project demonstrates a Jenkins pipeline setup with dynamic stage execution based on user input. The pipeline is designed to handle multiple scripting languages and execute specific stages depending on the selected language. The source code, including the `Jenkinsfile`, is hosted on GitHub.
